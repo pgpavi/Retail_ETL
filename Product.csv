@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,Brand,Price
+P101,Laptop,Electronics,Dell,55000
+P102,Mouse,Electronics,Logitech,800
+P103,Keyboard,Electronics,Logitech,1500
+P104,Monitor,Electronics,Samsung,-12000
+P105,Chair,Furniture,Ikea,6500
+P106,Desk,Furniture,Ikea,
+P107,Water Bottle,Accessories,Milton,450
+P107,Water Bottle,Accessories,Milton,450

@@ -1,0 +1,9 @@
+CustomerID,CustomerName,City,State,SignupDate
+101,John Smith,Chennai,Tamil Nadu,2023-01-15
+102,Sara Jones,Bangalore,Karnataka,2023-02-20
+103,David Lee,Hyderabad,Telangana,2022-11-10
+104,NULL,Chennai,Tamil Nadu,2023-03-05
+105,Priya Sharma,Mumbai,Maharashtra,2023-15-01
+106,John Smith,Chennai,Tamil Nadu,2023-01-15
+107,Alice Brown,Delhi,Delhi,2023-04-18
+108,Michael King,,Karnataka,2023-05-25
