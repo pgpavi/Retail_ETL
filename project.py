@@ -223,3 +223,8 @@ revenue_by_state.write \
     .mode("overwrite") \
     .option("header", True) \
     .csv("output/reports/revenue_by_state")
+
+
+# Basic data validation
+print("Total records:", customer_df.count())
+print("Null Customer IDs:", customer_df.filter(col("CustomerID").isNull()).count())
